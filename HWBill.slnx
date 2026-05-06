@@ -7,4 +7,7 @@
   <Project Path="HW1_6/HW1_6.csproj" Id="d596f391-78fa-4b59-a523-0b655f63a9bb" />
   <Project Path="HW1_7/HW1_7.csproj" Id="a0b3d570-78ee-495d-8a40-f021f3678a81" />
   <Project Path="HW1_8/HW1_8.csproj" Id="00fe66bb-c3a6-432d-9b20-a5a8d59a1f9e" />
+  <Project Path="HW2_1_LINQ/HW2_1_LINQ.csproj" Id="f8cce05f-1221-490c-98f4-e009941504b5" />
+  <Project Path="HW2_2_LINQ/HW2_2_LINQ.csproj" Id="6860d1d6-d12d-41b7-9e9a-b993435cc183" />
+  <Project Path="HW2_3_LINQ/HW2_3_LINQ.csproj" Id="83637888-6bdf-4ef7-a4cd-8d0bf9b61ccf" />
 </Solution>
